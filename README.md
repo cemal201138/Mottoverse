@@ -26,11 +26,11 @@ Windows'un yerel API'lerini kullanarak masaüstü katmanına sabitlenir, böylec
 Uygulama yerleşik Python kütüphanelerini (tkinter, urllib, xml, ctypes) kullanır. Windows API'leri içerdiğinden yalnızca Windows işletim sistemlerinde tam performansla çalışır. Ekstra bir pip install kurulumuna ihtiyaç yoktur.
 
 ### Çalıştırma
-1. Bu depoyu bilgisayarınıza indirin veya kopyalayın:
-   git clone https://github.com/KULLANICI_ADINIZ/mottoverse.git
-   cd mottoverse
+1. Deponun son versiyonunu indirin ve exe dosyasını çalıştırın.
 
-2. Python ile scripti çalıştırın:
+2. Örnek RSS kaynakları ve yapısı için [rss-feed](https://github.com/cemal201138/rss-feed) reposunu inceleyebilirsiniz.
+
+3. Python ile scripti çalıştırın:
    python main.py
 
 ---

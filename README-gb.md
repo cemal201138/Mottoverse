@@ -28,7 +28,7 @@ The application uses built-in Python libraries (tkinter, urllib, xml, ctypes). S
 ### Execution
 1. Download the latest version of the repository and run the executable file.
 
-2. You can check the [rss-feed](https://github.com/cemal201138/rss-feed) repository for sample RSS sources and structure.
+2. You can check the [rss-feed](https://github.com/cemal201138/rss-feed) repository for sample RSS sources and structure, or use the example directly.
 
 3. Run the script with Python:
    python main.py

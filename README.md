@@ -1,5 +1,7 @@
 # 🌟 Mottoverse - Saatlik Rastgele Söz Akışı (Desktop Widget)
 
+❗ [English README.md file](https://github.com/cemal201138/Mottoverse/blob/main/README-gb.md) ❗
+
 Mottoverse, Windows masaüstünüze şık ve minimalist bir şekilde entegre olan, favori RSS akışlarınızdan anlık veya saatlik olarak motivasyon sözleri/alıntılar çeken modern bir Python masaüstü widget uygulamasıdır.
 
 Windows'un yerel API'lerini kullanarak masaüstü katmanına sabitlenir, böylece pencereleri gizlediğinizde (`Win + D`) kaybolmaz ve arka planınızın şık bir parçası haline gelir.

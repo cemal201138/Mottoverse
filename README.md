@@ -28,7 +28,7 @@ Uygulama yerleşik Python kütüphanelerini (tkinter, urllib, xml, ctypes) kulla
 ### Çalıştırma
 1. Deponun son versiyonunu indirin ve exe dosyasını çalıştırın.
 
-2. Örnek RSS kaynakları ve yapısı için [rss-feed](https://github.com/cemal201138/rss-feed) reposunu inceleyebilirsiniz.
+2. Örnek RSS kaynakları ve yapısı için [rss-feed](https://github.com/cemal201138/rss-feed) reposunu inceleyebilirsiniz veya direk örneği kullanabilirsiniz.
 
 3. Python ile scripti çalıştırın:
    python main.py

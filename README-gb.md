@@ -1,59 +1,59 @@
-# 🌟 Mottoverse - Hourly Random Quote Stream (Desktop Widget)
+# 🌟 Mottoverse - Hourly Random Quote Flow (Desktop Widget)
 
-❗ [Türkçe README.md dosyası](https://github.com/cemal201138/Mottoverse/blob/main/README.md) ❗
+❗ [Turkish README.md file](https://github.com/cemal201138/Mottoverse/blob/main/README.md) ❗
 
-Mottoverse is a sleek and minimalist Python desktop widget that seamlessly integrates into your Windows desktop. It fetches motivational quotes and sayings from your favorite RSS feeds instantly or on an hourly basis.
+Mottoverse is a modern Python desktop widget application that integrates stylishly and minimally into your Windows desktop, pulling motivational quotes/excerpts from your favorite RSS feeds instantly or hourly.
 
-By utilizing native Windows APIs, the widget pins itself directly to the desktop layer. This ensures it stays neatly as a part of your wallpaper background and won't disappear when you hide all windows (Win + D).
+It is pinned to the desktop layer using native Windows APIs, so it does not disappear when you hide windows (Win + D) and becomes a stylish part of your background.
 
 ---
 
 ## ✨ Features
 
-* **Pin to Desktop:** Powered by Windows API integration, the widget sits right above your wallpaper. Other windows can overlay it, but it remains visible even when using the Win + D shortcut.
-* **Modern Tokyo Night Theme:** A clean, eye-friendly user interface featuring a modern #1a1b26 and #24283b color palette.
-* **Dynamic Auto-Resizing:** Automatically adjusts its height based on the content length (safeguarded with wraplength). It can also be resized manually via the top-left and bottom-right grips.
-* **Advanced Windows Styling:** Hardware-accelerated window corner rounding via DWM API on supported Windows versions.
-* **Fallback RSS System:** If your primary RSS feed encounters an issue, the widget automatically switches to your secondary backup stream.
-* **Lockable Interface:** You can lock the widget on your desktop to prevent accidental moving or resizing, which also hides the resizing grips.
-* **Smart JSON Configuration:** Saved URLs are automatically stored in the user's AppData/Roaming/Rss_Soz directory, so you don't have to re-enter them on every launch.
+* **Pin to Desktop:** Thanks to Windows API integration, the widget stays right above your wallpaper. It can be covered by other windows but is not hidden by the Win + D shortcut.
+* **Modern Tokyo Night Theme:** A modern, minimalist interface with a non-eye-straining #1a1b26 and #24283b color palette.
+* **Dynamic Resizing:** Automatically adjusts its height according to the length of the content (with wraplength protection). It can also be manually resized using the handles on the top-left and bottom-right.
+* **Advanced Windows Features:** Hardware-accelerated window corner rounding (DWM API) on supported Windows versions.
+* **Redundant RSS System:** Automatically switches to a backup feed if there is an issue with your primary RSS source.
+* **Lockable Interface:** You can lock the widget on the desktop to prevent accidental movement and hide the handles.
+* **Smart JSON Configuration:** The URLs you save are automatically stored in the AppData/Roaming/Rss_Soz folder of the user, so you don't need to re-enter them each time you open it.
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ Installation and Execution
 
 ### Requirements
-The application relies purely on Python's built-in libraries (tkinter, urllib, xml, ctypes). Since it includes native Windows APIs, it is only fully functional on Windows operating systems. No external pip install packages are required.
+The application uses built-in Python libraries (tkinter, urllib, xml, ctypes). Since it contains Windows APIs, it performs best on Windows operating systems. No extra pip install setup is needed.
 
-### Running the App
-1. Clone or download this repository to your local machine:
-   git clone https://github.com/YOUR_USERNAME/mottoverse.git
-   cd mottoverse
+### Execution
+1. Download the latest version of the repository and run the executable file.
 
-2. Run the script using Python:
+2. You can check the [rss-feed](https://github.com/cemal201138/rss-feed) repository for sample RSS sources and structure.
+
+3. Run the script with Python:
    python main.py
 
 ---
 
 ## 🚀 User Guide
 
-1. **Initial Setup:** When you launch the application for the first time, the RSS Feed Settings window will appear. You must enter at least one valid and verifiable RSS Feed URL here.
+1. **Initial Setup:** When you start the application for the first time, the RSS Source Settings window will appear. You need to enter at least one valid, verifiable RSS Feed URL here.
 2. **Widget Controls:**
-   * **Moving:** Click and hold anywhere on the widget to drag and reposition it on your desktop.
-   * **Resizing:** Use the ◤ and ◢ symbols at the corners to manually change the widget size.
-3. **Context Menu (Right-Click):** Right-click anywhere on the widget to access the following settings:
-   * 📌 Pin / 🔓 Unlock: Locks the widget's position and size on the screen, hiding the resize grips.
-   * ⚙️ URL Settings: Reopens the setup window to update or change your RSS feed links.
-   * ❌ Close: Safely exits the application.
+   * **Moving:** You can drag the widget to any place on your desktop by holding down anywhere on it.
+   * **Resizing:** You can change the widget size using the ◤ and ◢ symbols in the corners.
+3. **Right-Click Menu:** You can access the following settings by right-clicking on the widget:
+   * 📌 Pin / 🔓 Unlock: Prevents the widget from being moved or resized, fixing its position on the screen.
+   * ⚙️ URL Settings: Reopens the settings window to update or change RSS feed links.
+   * ❌ Close: Safely closes the application.
 
 ---
 
 ## 🎨 Screenshots
 
-To be added
+To be added.
 
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License. Feel free to develop, fork, and use it in your own projects.
+This project is licensed under the MIT license. You are free to develop, fork, and use it in your own projects.

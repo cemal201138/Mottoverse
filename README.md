@@ -16,7 +16,7 @@ Windows'un yerel API'lerini kullanarak masaüstü katmanına sabitlenir, böylec
 * **Gelişmiş Windows Özellikleri:** Destekleyen Windows sürümlerinde donanımsal pencere köşe yumuşatması (DWM API).
 * **Yedekli RSS Sistemi:** Birincil RSS kaynağınızda sorun oluşursa otomatik olarak yedek akışa geçiş yapar.
 * **Kilitlenebilir Arayüz:** Yanlışlıkla yerini değiştirmemek için widget'ı masaüstünde kilitleyebilir, tutamaçları gizleyebilirsiniz.
-* **Akıllı JSON Konfigürasyonu:** Kaydettiğiniz URL'ler otomatik olarak kullanıcının AppData/Roaming/Rss_Soz klasöründe saklanır, her açılışta tekrar girmeniz gerekmez.
+* **Akıllı JSON Konfigürasyonu:** Kaydettiğiniz URL'ler otomatik olarak kullanıcının AppData/Roaming/Mottoverse_Data klasöründe saklanır, her açılışta tekrar girmeniz gerekmez.
 
 ---
 

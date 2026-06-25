@@ -50,7 +50,11 @@ Uygulama yerleşik Python kütüphanelerini (tkinter, urllib, xml, ctypes) kulla
 
 ## 🎨 Ekran Görüntüleri
 
-Eklenecek
+<img width="474" height="444" alt="Screenshot 2026-06-25 120429" src="https://github.com/user-attachments/assets/8402188a-1c91-428f-845c-9b3e3adc6092" />
+<img width="472" height="440" alt="Screenshot 2026-06-25 120406" src="https://github.com/user-attachments/assets/9061bbf7-0194-4e58-98c9-443ead5bd0e4" />
+<img width="291" height="177" alt="Screenshot 2026-06-25 120254" src="https://github.com/user-attachments/assets/d6eace68-7af3-480e-876b-c0526f069342" />
+<img width="297" height="176" alt="Screenshot 2026-06-25 120451" src="https://github.com/user-attachments/assets/d06a1d9f-fa9a-4377-98b2-b7e39f929b6c" />
+<img width="293" height="180" alt="Screenshot 2026-06-25 120652" src="https://github.com/user-attachments/assets/98fcad29-c873-4a2a-ab67-6096bcef9dc8" />
 
 ---
 

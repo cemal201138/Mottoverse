@@ -17,6 +17,7 @@ Windows'un yerel API'lerini kullanarak masaüstü katmanına sabitlenir, böylec
 * **Yedekli RSS Sistemi:** Birincil RSS kaynağınızda sorun oluşursa otomatik olarak yedek akışa geçiş yapar.
 * **Kilitlenebilir Arayüz:** Yanlışlıkla yerini değiştirmemek için widget'ı masaüstünde kilitleyebilir, tutamaçları gizleyebilirsiniz.
 * **Akıllı JSON Konfigürasyonu:** Kaydettiğiniz URL'ler otomatik olarak kullanıcının AppData/Roaming/Mottoverse_Data klasöründe saklanır, her açılışta tekrar girmeniz gerekmez.
+* **💡 Detaylı SSS Desteği:** Kurulum, RSS/JSON modları veya Windows entegrasyonu hakkında aklınıza takılan sorular için [Mottoverse Sıkça Sorulan Sorular (FAQ)](https://github.com/cemal201138/Mottoverse/blob/main/SSS.md) kılavuzuna göz atabilirsiniz.
 
 ---
 
@@ -45,6 +46,9 @@ Uygulama yerleşik Python kütüphanelerini (tkinter, urllib, xml, ctypes) kulla
    * 📌 Sabitle / 🔓 Kilidi Kaldır: Widget'ın taşınmasını ve boyutlandırılmasını engeller, ekrandaki yerini sabitler.
    * ⚙️ URL Ayarları: RSS akış linklerini güncellemek veya değiştirmek için ayar penceresini tekrar açar.
    * ❌ Kapat: Uygulamayı güvenli bir şekilde kapatır.
+
+> ❓ **Sorun mu Yaşıyorsunuz?**
+> Uygulamanın aniden kapanması, RSS doğrulama hataları veya Windows alt katman entegrasyonuyla ilgili teknik detayların çözümleri için hazırladığımız kapsamlı kılavuza **[Mottoverse SSS / FAQ Dokümanı](https://github.com/cemal201138/Mottoverse/blob/main/SSS.md)** üzerinden ulaşarak tüm sorularınıza yanıt bulabilirsiniz.
 
 ---
 

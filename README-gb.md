@@ -17,6 +17,7 @@ It is pinned to the desktop layer using native Windows APIs, so it does not disa
 * **Redundant RSS System:** Automatically switches to a backup feed if there is an issue with your primary RSS source.
 * **Lockable Interface:** You can lock the widget on the desktop to prevent accidental movement and hide the handles.
 * **Smart JSON Configuration:** The URLs you save are automatically stored in the AppData/Roaming/Mottoverse_Data folder of the user, so you don't need to re-enter them each time you open it.
+* **💡 Detailed FAQ Support:** For frequently asked questions about installation, RSS/JSON source modes, or Windows sub-layer integration, check out the comprehensive [Mottoverse FAQ Guide](https://github.com/cemal201138/Mottoverse/blob/main/FAQ.md).
 
 ---
 
@@ -45,6 +46,9 @@ The application uses built-in Python libraries (tkinter, urllib, xml, ctypes). S
    * 📌 Pin / 🔓 Unlock: Prevents the widget from being moved or resized, fixing its position on the screen.
    * ⚙️ URL Settings: Reopens the settings window to update or change RSS feed links.
    * ❌ Close: Safely closes the application.
+
+> ❓ **Having Troubleshooting Issues?**
+> If you encounter issues like sudden window closing, RSS validation errors, or want to understand how the desktop background layer pinning works under the hood, please refer to the **[Mottoverse FAQ Document](https://github.com/cemal201138/Mottoverse/blob/main/FAQ.md)** for detailed solutions and explanations.
 
 ---
 

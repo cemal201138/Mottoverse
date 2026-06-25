@@ -16,7 +16,7 @@ It is pinned to the desktop layer using native Windows APIs, so it does not disa
 * **Advanced Windows Features:** Hardware-accelerated window corner rounding (DWM API) on supported Windows versions.
 * **Redundant RSS System:** Automatically switches to a backup feed if there is an issue with your primary RSS source.
 * **Lockable Interface:** You can lock the widget on the desktop to prevent accidental movement and hide the handles.
-* **Smart JSON Configuration:** The URLs you save are automatically stored in the AppData/Roaming/Rss_Soz folder of the user, so you don't need to re-enter them each time you open it.
+* **Smart JSON Configuration:** The URLs you save are automatically stored in the AppData/Roaming/Mottoverse_Data folder of the user, so you don't need to re-enter them each time you open it.
 
 ---
 
